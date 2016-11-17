@@ -58,9 +58,10 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-.idea/.gitignore
-src/main/resources/
 src/test/
-target/generated-sources/
-.gitignore
-target/classes/
+/target/
+/.idea/
+
+ivivisoft.iml
+src/main/resources/
+/ivivisoft.iml
